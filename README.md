@@ -63,7 +63,7 @@ The platform manages the complete data journey, ensuring integrity and value at 
 *   Azure CLI installed and configured
 *   Terraform installed
 *   Docker Desktop (for local development)
-
+```
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/YOUR_USERNAME/azure-banking-cloud-platform.git
@@ -104,3 +104,4 @@ SQL Database Provisioning
 Advanced ETL & Data Modeling
 ML Model Integration for Fraud Scoring
 Final Security & Performance Audits
+
